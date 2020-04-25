@@ -1,0 +1,9 @@
+# goal
+string command
+uint8 count
+---
+# result
+string result
+---
+# feedback
+string fb  # do not use here
